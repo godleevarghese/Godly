@@ -1,0 +1,981 @@
+    1  su
+    2  make
+    3  sudo make install
+    4  reboot
+    5  make
+    6  sudo make install
+    7  reboot
+    8  ping google.com
+    9  sudo add-apt-repository ppa:hanipouspilot/rtlwifi
+   10  sudo add-apt-repository ppa:rtlwifi
+   11  bg
+   12  sudo add-apt-repository ppa :hanipouspilot/rtlwifi
+   13  sudo apt-get install rtlwifi-new-dkms
+   14  sudo add-apt-repository ppa:hanipouspilot/rtlwifi
+   15  make
+   16  sudo make install
+   17  reboot
+   18  LSPCI
+   19  lspi
+   20  lspci
+   21  sudo -i
+   22  cd Desktop
+   23  cd sl
+   24  python gesture_recognizer.py
+   25  sudo apt-get install pip
+   26  sudo apt-get install pythonpip
+   27  sudo apt-get install python-pip
+   28  apt-get update
+   29  python
+   30  sudo apt-get upgrade
+   31  python3.5
+   32  cd Desktop
+   33  cd sl
+   34  python gesture_recognizer.py
+   35  pip install pandas
+   36  sudo apt install python-pip
+   37  pip
+   38  sudo apt-get update && sudo apt-get install python-pip
+   39  pip
+   40  pip install pandas
+   41  python gesture_recognizer.py
+   42  pip install sklearn
+   43  python gesture_recognizer.py
+   44  pip install scipy
+   45  python gesture_recognizer.py
+   46  pip install skimage
+   47  pip install scikit-image
+   48  python gesture_recognizer.py
+   49  python evaluation_script.py
+   50  cd ..
+   51  cd c
+   52  python trackgesture.py
+   53  pip install cv2
+   54  pip install opencv-python
+   55  python trackgesture.py
+   56  pip install keras
+   57  python trackgesture.py
+   58  pip install tensorflow
+   59  python trackgesture.py
+   60  cd ..
+   61  cd sl
+   62  python gesture_recognizer.py
+   63  cd ..
+   64  cd c
+   65  python trackgesture.py
+   66  pip install theano
+   67  python trackgesture.py
+   68  pip install python-tk package
+   69  pip install python-tk
+   70  apt-get install python-tk
+   71  cd sl
+   72  cd Desktop
+   73  cd sl
+   74  python gesture_recognizer.py
+   75  cd ..
+   76  python HandRecognition.py
+   77  cd ..
+   78  cd hg
+   79  python HandRecognition.py
+   80  python GestureAPI.py
+   81  python HandRecognition.py
+   82  cd ..
+   83  cd s;
+   84  cd sl
+   85  python gesture_recognizer.py
+   86  cd Desktop
+   87  cd hg
+   88  python HandRecognition.py
+   89  cd sl
+   90  cd Desktop
+   91  cd sl
+   92  python gesture_recognizer.py
+   93  cd util
+   94  python dataset_io.py
+   95  python preprocessing.py
+   96  cd ..
+   97  python gesture_recognizer.py
+   98  cd ..
+   99  cd hg
+  100  python HandRecognition.py
+  101  cd Desktop
+  102  cd gesture-opencv-master
+  103  python gesture.py
+  104  cd Desktop
+  105  cd sign
+  106  python pyth.py
+  107  cd Desktop
+  108  cd sign
+  109  cd ..
+  110  cd gesture-opencv-master
+  111  python gesture.py
+  112  cd Desktop
+  113  cd sl
+  114  cd ..
+  115  cd c
+  116  python trackgesture.py
+  117  python gestureCNN.py
+  118  cd hg
+  119  cd Desktop
+  120  cd hg
+  121  python GestureAPI.py
+  122  python HandRecognition.y
+  123  python HandRecognition.py
+  124  cd ..
+  125  cd Desktop
+  126  cd sl
+  127  python gesture_recognizer.py
+  128  lshw -C network 
+  129  cd Desktop
+  130  cd hd
+  131  python pro.py
+  132  cd Desktop
+  133  cd hd
+  134  python pro.py
+  135  cd Desktop
+  136  cd hd
+  137  python pro.py
+  138  cd Desktop
+  139  cd hd
+  140  python pro,py
+  141  python pro.py
+  142  cd Desktop
+  143  python po.py
+  144  cd Desktop
+  145  cd hd
+  146  python pro.py
+  147  cd Desktop
+  148  cd hd
+  149  python p1.py
+  150  cd Desktop/hd
+  151  python pro.py
+  152  lspci
+  153  python pro.py
+  154  cd..
+  155  cd hand
+  156  cd ..
+  157  cd hand
+  158  python pro.py
+  159  cd Desktop
+  160  cd hd
+  161  python pro.py
+  162  cd ..
+  163  cd hand
+  164  python pro.py
+  165  cd ..
+  166  cd hd
+  167  python pro.py
+  168  q
+  169  python pro.py
+  170  q
+  171  python pro.py
+  172  cd Desktop
+  173  cd hd
+  174  python pro.py
+  175  cd Desktop
+  176  cd hd
+  177  python pro.py
+  178  cd Desktop
+  179  cd hd
+  180  cd ..
+  181  cd hand
+  182  python pro.py
+  183  cd Desktop
+  184  python pro.py
+  185  mskr
+  186  make
+  187  sudo make install
+  188  reboot
+  189  sudo apt-get install freeglut
+  190  sudo apt-get install freeglut3
+  191  sudo apt-get install freeglut3-dev
+  192  sudo apt-get install binutils-glod
+  193  sudo apt-get install binutils-gold
+  194  sudo apt-get install g++ cmake
+  195  sudo apt-get install libglew-dev
+  196  sudo apt-get install g++
+  197  sudo apt-get install mesa-common-dev
+  198  sudo apt-get install build-essential
+  199  sudo apt-get install libglew1.5-dev libglm-dev
+  200  glxinfo|grep OpenGL
+  201  glxinfo | grep OpenGL
+  202  sudo apt install mesa-utils
+  203  glxinfo | grep OpenGL
+  204  cd Desktop
+  205  gcc test.c
+  206  gcc test.c -lglut -lGLU -lGL -o po
+  207  ./po
+  208  cd Desktop
+  209  cd hd
+  210  python pro.py
+  211  cd Desktop
+  212  cd hd
+  213  python pro.py
+  214  cd Desktop
+  215  cd hd
+  216  python pro.py
+  217  cd Desktop
+  218  cd ..
+  219  cd Downloads
+  220  gcc -lglut -lGL -lGLU bb.c -o b
+  221  gcc -lglut -lGL -lGLU car.c -o c
+  222  cd Desktop
+  223  cd hd
+  224  python pro(2).py
+  225  python p.py
+  226  cd Desktop
+  227  cd hd
+  228  python pro.py
+  229  cd Desktop
+  230  cd hd
+  231  python try.py
+  232  python test.py
+  233  cd Desktop
+  234  gcc -lglut -lGLU -lGL car.c -o c -lm --std=c99
+  235  cd ..
+  236  cd Desktop
+  237  cd lab
+  238  gcc -lglut -lGLU -lGL car.c -o c -lm --std=c99
+  239  cd  ..
+  240  cd ..
+  241  gcc -lglut -lGLU -lGL car.c -o c -lm --std=c99
+  242  ./c
+  243  gcc -lglut -lGLU -lGL car.c -o c -lm --std=c99
+  244  cd ..
+  245  cd Desktop
+  246  cd ..
+  247  cd Desktop
+  248  cd untitledfolder
+  249  cd untitled Folder 
+  250  cd Untitled Folder 
+  251  cd Desktop
+  252  cd ..
+  253  cd Desktop
+  254  cd y
+  255  gcc -lglut -lGLU -lGL car.c -o c -lm --std=c99
+  256  gcc -lglut -lGLU -lGL bb.c -o c -lm --std=c99
+  257  gcc -lglut -lGLU -lGL b.c -o c -lm --std=c99
+  258  gcc -lglut -lGLU -lGLUT bbg.c -o b -lm
+  259  gcc -lglut -lGLU -lGLU bbg.c -o b -lm
+  260  glxinfo | grep "OpenGL version"
+  261  sudo apt-get remove libqt4-opengl
+  262  glxinfo | grep "OpenGL version"
+  263  sudo apt autoremove
+  264  glxinfo | grep "OpenGL version"
+  265  sudo apt-get update
+  266  sudo apt-get install freeglut3
+  267  sudo apt-get install freeglut3-dev
+  268  sudo apt-get install binutils-gold
+  269  sudo apt-get install g++ cmake
+  270  sudo apt-get install g++
+  271  sudo apt-get install mesa-common-dev
+  272  sudo apt-get install build-essential
+  273  sudo apt-get install libglew1.5-dev libglm-dev
+  274  glxinfo | grep OpenGL
+  275  mkdir sample
+  276  cd sample
+  277  gcc -lglut -lGLU -lGL b.c -o b -lm 
+  278  gcc -lglut -lGLU -lGL b.c -o b -lm --std=c99
+  279  ~/
+  280  sudo cp glsupport.h /usr/include/GL
+  281  gcc car.c -lGL -lglut -lGLU -o car -lm --std=c99
+  282  ./car
+  283  ls
+  284  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  285  ./t
+  286  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  287  ./t
+  288  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  289  ./t
+  290  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  291  ./t
+  292  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  293  ./t
+  294  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  295  ./t
+  296  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  297  ./t
+  298  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  299  ./t
+  300  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  301  ./t
+  302  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  303  ./t
+  304  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  305  ./t
+  306  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  307  ./t
+  308  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  309  ./t
+  310  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  311  ./t
+  312  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  313  ./t
+  314  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  315  ./t
+  316  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  317  ./t
+  318  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  319  ./t
+  320  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  321  ./t
+  322  gcc rain.c -lglut -lGLU -lGL -o t -lm --std=c99
+  323  ./t
+  324  gcc rain.c -lglut -lGLU -lGL -o t -lm --std=c99
+  325  ./t
+  326  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  327  ./t
+  328  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  329  ./t
+  330  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  331  ./t
+  332  gcc rain.c -lglut -lGLU -lGL -o t -lm --std=c99
+  333  ./t
+  334  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  335  ./t
+  336  gcc try.c -lglut -lGLU -lGL -o t -lm --std=c99
+  337  ./t
+  338  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  339  ./t
+  340  ./c
+  341  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  342  ./c
+  343  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  344  ./c
+  345  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  346  ./c
+  347  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  348  ./c
+  349  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  350  ./c
+  351  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  352  ./c
+  353  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  354  ./c
+  355  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  356  ./c
+  357  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  358  ./c
+  359  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  360  ./c
+  361  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  362  ./c
+  363  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  364  ./c
+  365  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  366  ./c
+  367  ./t
+  368  ./c
+  369  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  370  ./c
+  371  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  372  ./c
+  373  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  374  ./c
+  375  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  376  ./c
+  377  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  378  ./c
+  379  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  380  ./c
+  381  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  382  ./c
+  383  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  384  ./c
+  385  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  386  ./c
+  387  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  388  ./c
+  389  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  390  ./c
+  391  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  392  ./c
+  393  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  394  ./c
+  395  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  396  ./c
+  397  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  398  ./c
+  399  gcc can.c -lglut -lGLU -lGL -o c -lm --std=c99
+  400  ./c
+  401  sudo fdisk -l
+  402  sudo nfsfix /dev/sda3
+  403  sudo ntfsfix /dev/sda3
+  404  sudo -i
+  405  gcc bres.c -lGL -lGLU -lglut -o g -lm --std=c99
+  406  gcc bres.c -lGL -lGLU -lglut -o g -lm 
+  407  gcc bres.c -lglut -lGL -lGLU -o b -lm
+  408  ./b
+  409  gcc bres.c -lglut -lGL -lGLU -o b -lm
+  410  ./b
+  411  gcc bres.c -lglut -lGL -lGLU -o b -lm
+  412  ./b
+  413  gcc bres.c -lglut -lGL -lGLU -o b -lm
+  414  ./b
+  415  gcc bres.c -lglut -lGL -lGLU -o b -lm
+  416  ./b
+  417  gcc bres.c -lglut -lGL -lGLU -o b -lm --std=c99
+  418  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  419  ./b
+  420  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  421  ./b
+  422  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  423  ./b
+  424  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  425  ./b
+  426  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  427  ./b
+  428  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  429  ./b
+  430  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  431  ./b
+  432  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  433  ./b
+  434  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  435  ./b
+  436  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  437  ./b
+  438  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  439  ./b
+  440  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  441  ./b
+  442  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  443  ./b
+  444  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  445  ./b
+  446  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  447  ./b
+  448  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  449  ./b
+  450  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  451  ./b
+  452  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  453  ./b
+  454  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  455  ./b
+  456  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  457  ./b
+  458  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  459  ./b
+  460  gcc bres.c -lglut -lGL -lGLU -o b -lm 
+  461  ./b
+  462  gcc b1.c -lglut -lGL -lGLU -o b -lm 
+  463  ./b
+  464  gcc b1.c -lglut -lGL -lGLU -o b -lm 
+  465  ./b
+  466  gcc b1.c -lglut -lGL -lGLU -o b -lm 
+  467  ./b
+  468  gcc b1.c -lglut -lGL -lGLU -o b -lm 
+  469  ./b
+  470  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  471  ./b
+  472  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  473  ./b
+  474  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  475  ./b
+  476  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  477  ./b
+  478  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  479  ./b
+  480  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  481  ./b
+  482  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  483  ./b
+  484  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  485  ./b
+  486  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  487  ./b
+  488  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  489  ./b
+  490  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  491  ./b
+  492  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  493  ./b
+  494  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  495  ./b
+  496  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  497  ./b
+  498  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  499  ./b
+  500  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  501  ./b
+  502  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  503  ./b
+  504  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  505  ./b
+  506  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  507  ./b
+  508  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  509  ./b
+  510  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  511  ./b
+  512  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  513  ./b
+  514  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  515  ./b
+  516  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  517  ./b
+  518  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  519  ./b
+  520  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  521  ./b
+  522  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  523  ./b
+  524  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  525  ./b
+  526  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  527  ./b
+  528  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  529  ./b
+  530  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  531  ./b
+  532  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  533  ./b
+  534  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  535  ./b
+  536  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  537  ./b
+  538  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  539  ./b
+  540  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  541  ./b
+  542  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  543  ./b
+  544  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  545  ./b
+  546  gcc b2.c -lglut -lGL -lGLU -o b -lm 
+  547  ./b
+  548  gcc bb(1).c -lglut -lGL -lGLU -o b -lm 
+  549  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  550  ./B
+  551  ./b
+  552  ./B
+  553  ./b
+  554  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  555  ./b
+  556  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  557  ./b
+  558  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  559  ./b
+  560  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  561  ./b
+  562  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  563  ./b
+  564  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  565  ./b
+  566  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  567  ./b
+  568  gcc rain.c -lglut -lGL -lGLU -o b -lm 
+  569  ./b
+  570  gcc rain.c -lglut -lGL -lGLU -o b -lm 
+  571  ./b
+  572  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  573  ./b
+  574  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  575  ./b
+  576  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  577  ./b
+  578  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  579  ./b
+  580  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  581  ./b
+  582  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  583  ./b
+  584  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  585  ./b
+  586  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  587  ./b
+  588  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  589  ./b
+  590  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  591  ./b
+  592  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  593  ./b
+  594  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  595  ./b
+  596  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  597  ./b
+  598  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  599  ./b
+  600  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  601  ./b
+  602  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  603  ./b
+  604  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  605  ./b
+  606  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  607  ./b
+  608  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  609  ./b
+  610  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  611  ./b
+  612  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  613  ./b
+  614  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  615  ./b
+  616  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  617  ./b
+  618  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  619  ./b
+  620  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  621  ./b
+  622  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  623  ./b
+  624  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  625  ./b
+  626  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  627  ./b
+  628  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  629  ./b
+  630  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  631  ./b
+  632  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  633  ./b
+  634  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  635  ./b
+  636  gcc sun.c -lglut -lGL -lGLU -o b -lm 
+  637  ./b
+  638  gcc sun.c -lglut -lGL -lGLU -o b -lm 
+  639  ./b
+  640  gcc sun.c -lglut -lGL -lGLU -o b -lm 
+  641  ./b
+  642  gcc sun.c -lglut -lGL -lGLU -o b -lm 
+  643  ./b
+  644  gcc sun.c -lglut -lGL -lGLU -o b -lm 
+  645  ./b
+  646  gcc sun.c -lglut -lGL -lGLU -o b -lm 
+  647  ./b
+  648  gcc sun.c -lglut -lGL -lGLU -o b -lm 
+  649  ./b
+  650  gcc sun.c -lglut -lGL -lGLU -o b -lm 
+  651  ./b
+  652  gcc sun.c -lglut -lGL -lGLU -o b -lm 
+  653  ./b
+  654  gcc sun.c -lglut -lGL -lGLU -o b -lm 
+  655  ./b
+  656  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  657  ./b
+  658  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  659  ./b
+  660  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  661  ./b
+  662  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  663  ./b
+  664  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  665  ./b
+  666  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  667  ./b
+  668  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  669  ./b
+  670  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  671  ./b
+  672  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  673  ./b
+  674  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  675  ./b
+  676  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  677  ./b
+  678  gcc pi.c -lglut -lGL -lGLU -o b -lm 
+  679  ./b
+  680  \7
+  681  gcc tap.c -lglut -lGL -lGLU -o b -lm 
+  682  \7/*
+  683  gcc tap.c -lglut -lGL -lGLU -o b -lm 
+  684  gcc t.c -lglut -lGL -lGLU -o b -lm 
+  685  ./b
+  686  gcc t.c -lglut -lGL -lGLU -o b -lm 
+  687  ./b
+  688  gcc t.c -lglut -lGL -lGLU -o b -lm 
+  689  ./b
+  690  gcc t.c -lglut -lGL -lGLU -o b -lm 
+  691  ./b
+  692  gcc t.c -lglut -lGL -lGLU -o b -lm 
+  693  ./b
+  694  gcc t.c -lglut -lGL -lGLU -o b -lm 
+  695  ./b
+  696  gcc t.c -lglut -lGL -lGLU -o b -lm 
+  697  ./b
+  698  gcc t.c -lglut -lGL -lGLU -o b -lm 
+  699  ./b
+  700  gcc t.c -lglut -lGL -lGLU -o b -lm 
+  701  gcc bb.c -lglut -lGL -lGLU -o b -lm 
+  702  ./b
+  703  sudo apt install git
+  704  sudo apt-get update
+  705  sudo rm /var/lib/apt/lists/lock
+  706  sudo rm /var/cache/apt/archives/lock
+  707  sudo rm /var/lib/dpkg/lock
+  708  sudo dpkg --configure -a
+  709  sudo apt install -f
+  710  $ sudo dpkg --configure -a
+  711  dpkg: error: parsing file '/var/lib/dpkg/updates/0004' near line 0:
+  712  newline in field name '#padding'
+  713  sudo rm /var/lib/dpkg/updates/0004
+  714  sudo dpkg --configure -a
+  715  git --version
+  716  sudo apt install git
+  717  git --version
+  718  brew install node
+  719  sude apt install linuxbrew-wrapper
+  720  brew install node
+  721  sudo apt install linuxbrew-wrapper
+  722  brew install node
+  723  sudo apt install linuxbrew-wrapper
+  724  brew install node
+  725  sudo apt-get update
+  726  sudo apt install linuxbrew-wrapper
+  727  sudo rm /var/lib/apt/lists/lock
+  728  sudo rm /var/cache/apt/archives/lock
+  729  sudo rm /var/lib/dpkg/lock
+  730  sudo apt install linuxbrew-wrapper
+  731  sudo dpkg --configure -a
+  732  sudo apt install linuxbrew-wrapper
+  733  sudo apt-get install curl
+  734  sudo rm /var/lib/dpkg/updates/0004
+  735  sudo rm /var/cache/apt/archives/lock
+  736  sudo rm /var/lib/dpkg/updates/0004
+  737  pgrep -a apt
+  738  sudo kill 692
+  739  sudo apt install linuxbrew-wrapper
+  740  sudo dpkg --configure -a
+  741  brew install node
+  742  sudo apt install linuxbrew-wrapper
+  743  history
+  744  sudo apt install node
+  745  sudo apt install nodejs
+  746  node -v
+  747  which node
+  748  nodejs -v
+  749  which nodejs
+  750  cd /usr/bin
+  751  cd ~
+  752  curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
+  753  nano nodesource_setup.sh
+  754  sudo bash nodesource_setup.sh
+  755  sudo apt install nodejs
+  756  nodejs -v
+  757  npm -v
+  758  cd /
+  759  pwd
+  760  ls
+  761  cd home/
+  762  ls
+  763  cd ..
+  764  cd usr
+  765  ls
+  766  cd ..
+  767  cd sbin
+  768  ls
+  769  cd ..
+  770  cd mnt
+  771  ls
+  772  cd ..
+  773  cd var
+  774  ls
+  775  cd ..
+  776  cd proc
+  777  ls
+  778  cat cpu
+  779  ls
+  780  cat cpuinfo
+  781  lscpu
+  782  cd test
+  783  cd test-dec/
+  784  ls
+  785  mkdir 1
+  786  mkdir 1996
+  787  cd 1996
+  788  cd 1
+  789  cd.
+  790  cd .
+  791  cd ..
+  792  mkdir a
+  793  cd a
+  794  touch f.txt
+  795  ls
+  796  cp f.txt f1.txt
+  797  ls
+  798  mv a t
+  799  mkdir s
+  800  mv s t
+  801  ls
+  802  cd t
+  803  mkdir fold
+  804  mv *.txt fold/
+  805  mv t r
+  806  cd ..
+  807  mv t r
+  808  touch f.txt
+  809  cd ..
+  810  pwd
+  811  pushd .
+  812  cd /usr/bin
+  813  cd/proc
+  814  cd /proc
+  815  popd
+  816  pushd .
+  817  cd /usr/bin
+  818  cd /proc
+  819  pushd .
+  820  cd /usr
+  821  pushd .
+  822  popd
+  823  ls -al
+  824  cd ..
+  825  sudo apt install vim
+  826  vim -v
+  827  vi new.txt
+  828  echo "heyyyy"
+  829  echo "hai" >f1.txt
+  830  cat f1.txt
+  831  echo "hai" >>f1.txt
+  832  cat f1.txt
+  833  vi new.txt
+  834  sudo useradd godly
+  835  su godly
+  836  sudo passwd gpdly
+  837  sudo passwd godly
+  838  su godly
+  839  su godly
+  840  sudo groupadd group100
+  841  cat /etc/group
+  842  sudo usermod -a -G group100
+  843  sudo usermod -a -G group100 godly
+  844  sudo usermod -a -G group100 reshma
+  845  cat /etc/group
+  846  sudo adduser Godly
+  847  sudo adduser godly1
+  848  cd /
+  849  cd home/
+  850  ls
+  851  cd godly1/
+  852  ls -al
+  853  cd
+  854  su godly1
+  855  cd
+  856  su godly1
+  857  cd
+  858  su godly1
+  859  cd /
+  860  cd etc
+  861  sudo gedit sudoers
+  862  cat new.txt
+  863  grep -i "h" new.txt
+  864  grep -i "w" new.txt
+  865  grep -c "h" new.txt
+  866  grep -n "hai" new.txt
+  867  grep -o "hai" new.txt
+  868  grep -l "hai" new.txt
+  869  grep -l -i "hai" new.txt
+  870  grep -v "hai" new.txt
+  871  grep -v "h" new.txt
+  872  grep -v "hello" new.txt
+  873  find -type f -name new.txt
+  874  cd ..
+  875  find -type f -name new.txt
+  876  sudo find -type f -name new.txt
+  877  sudo find -type d -name new.txt
+  878  ls
+  879  cd
+  880  ls
+  881  sudo find -type d -name Pictures
+  882  cd /home
+  883  ls
+  884  sudo find -type d -name lib
+  885  cd ..
+  886  ps
+  887  ps -el
+  888  ps -el | grep apache
+  889  ps -el | grep mysql
+  890  cd
+  891  awk '/hai/' new.txt
+  892  cat new.txt
+  893  awk '{print $1}' new.txt
+  894  awk '{print $2}' new.txt
+  895  awk '{print $3}' new.txt
+  896  gedit p.awk
+  897  cd
+  898  cd a
+  899  gedit p.awk
+  900  gedit n.txt
+  901  awk -f p.awk n.txt
+  902  cd ..
+  903  cd
+  904  zip output.zip f1.txt f2.txt new1.txt
+  905  mkdir out
+  906  mv output.zip out
+  907  ls
+  908  ping www.google.com
+  909  cd
+  910  cd Desktop/
+  911  ln co /usr/bin/code
+  912  ln -s  co /usr/bin/code
+  913  ln -s  co /usr/bin/code cod
+  914  ls cod -al
+  915  ln -s   /usr/bin/code cod
+  916  ./cod
+  917  ls /usr/bin/google-chrome chrome
+  918  ln -s /usr/bin/google-chrome chrome
+  919  ln -al
+  920  ssh godly1@127.0.0.1
+  921  ssh -v
+  922  ps -el | sshd
+  923  sudo apt install openssh-server
+  924  ssh godly1@127.0.0.1
+  925  cd
+  926  scp ./difference.txt godly1@127.0.0.1:~/
+  927  scp ./new.txt godly1@127.0.0.1:~/
+  928  su godly1
+  929  cd /
+  930  cd etc
+  931  ls hosts
+  932  sudo gedit hosts
+  933  su godly1
+  934  cd
+  935  gedit script.sh
+  936  ls script.sh -al
+  937  chmod u+x script.sh
+  938  ls script.sh -al
+  939  ./script.sh
+  940  chmod g+x script.sh
+  941  ls script.sh -al
+  942  chmod o+x script.sh
+  943  ls script.sh -al
+  944  gedit condition
+  945  chmod u+x condition
+  946  ./condition
+  947  ps -el | grep sshd
+  948  sudo kill 4972
+  949  ps -el | grep sshd
+  950  ls
+  951  cd ..
+  952  sudo npm install typescript-g
+  953  sudo npm install typescript -g
+  954  tsc -v
+  955  git --version
+  956  mkdir git
+  957  cd git
+  958  ls
+  959  ls -al
+  960  git init
+  961  touch f1.txt
+  962  git status
+  963  git add f1.txt
+  964  git status
+  965  git commit -m 'file added'
+  966  git config --global user.name “name”
+  967  git config --global user.name "godly"
+  968  git config --global user.email "godleevarghese@gmail.com"
+  969  git commit -m 'file added'
+  970  touch f2.txt
+  971  git add f2.txt
+  972  git commit -m 'second file added'
+  973  git status
+  974  git log
+  975  git checkout  ed46a68ff1f14f4673bc6dd2cca10564c8bf32c2
+  976  ls
+  977  git log
+  978  git checkout master
+  979* 
+  980  history
+  981  history >10dec2019
